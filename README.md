@@ -6,6 +6,9 @@
 <a href="https://go.dev/">
 <img src="Icons/go-original.svg" title="Golang"  alt="Golang" width="40" height="40"/>&nbsp;
 </a>
+<a href="https://code.visualstudio.com/">
+<img src="Icons/vscode-original.svg" title="Vscode"  alt="Vscode" width="40" height="40"/>&nbsp;
+</a>
 </div>
 
 ### :fire: My Stats :
