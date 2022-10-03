@@ -3,7 +3,7 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-<a href="https://go.dev/" target="_blank">
+<a href="https://go.dev/">
 <img src="Icons/go-original.svg" title="Golang"  alt="Golang" width="40" height="40"/>&nbsp;
 </a>
 </div>
