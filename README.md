@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+<img src="Icons/go-original.svg" title="Golang"  alt="Golang" width="40" height="40"/>&nbsp;
+</div>
 ### :fire: My Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Falusvampen&theme=tokyonight_duo&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
