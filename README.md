@@ -1,6 +1,6 @@
-### Hi there 👋
+### :mage_man: Welcome to my GitHub page! 
 
-### :hammer_and_wrench: Languages and Tools :
+### :man_technologist: Languages and Tools :
 
 <div>
 <a href="https://go.dev/">
