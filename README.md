@@ -1,5 +1,5 @@
 ### :mage_man: Welcome to my GitHub page! 
-
+- I am currently studying at grit:lab striving to learn and ultimately become a full-stack developer.
 ### :man_technologist: Languages and Tools :
 
 <div>
