@@ -1,6 +1,6 @@
 ### :mage_man: Welcome to my GitHub page! 
 - I am currently studying at grit:lab striving to learn and ultimately become a full-stack developer.
-- [My Website (work in progress)](https://github.com/Falusvampen)
+- [My Website (work in progress)](https://falusvampen.github.io/)
 
 ### :man_technologist: Languages and Tools :
 
