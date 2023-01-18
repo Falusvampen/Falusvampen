@@ -13,7 +13,7 @@
 <img src="Icons/css3-original.svg" title="CSS"  alt="CSS" width="40" height="40"/>&nbsp;
 </a>
 <a href="https://www.javascript.com/">
-<img src="Icons/javascript-original.svg" title="Html5"  alt="Html5" width="40" height="40"/>&nbsp;
+<img src="Icons/javascript-original.svg" title="JavaScript"  alt="JavaScript" width="40" height="40"/>&nbsp;
 </a>
 <a href="https://www.w3schools.com/html/">
 <img src="Icons/html5-original.svg" title="Html5"  alt="Html5" width="40" height="40"/>&nbsp;
