@@ -1,5 +1,6 @@
 ### :mage_man: Welcome to my GitHub page!
 
+<!-- Secret comment --!>
 - I am currently studying and striving to become a full-stack developer.
 <!-- - [My Website (work in progress)](https://falusvampen.github.io/)
 -->
