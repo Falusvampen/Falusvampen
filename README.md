@@ -1,7 +1,7 @@
 ### :mage_man: Welcome to my GitHub page!
 
 <!-- Secret comment --!>
-- I am currently studying and striving to become a full-stack developer.
+- I have studied full stack development and I'm currently working as a front end developer. 
 <!-- - [My Website (work in progress)](https://falusvampen.github.io/)
 -->
 [My Website](https://www.wallstrom.dev)
